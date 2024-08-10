@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Hoang</h1>
 <h3 align="center">A passionate developer in Canada</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXg2eTh5OXRkaGY3eG42M3ZlOXEyMHJieG14NTd6cXA5Z29nODZsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duclongbox&label=Profile%20views&color=0e75b6&style=flat" alt="duclongbox" /> </p>
 
