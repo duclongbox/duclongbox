@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working as Full-stack Developer
 
-- 🌱 I’m currently learning **AWS**
-
 - 🤝 I’m looking for help with **grad job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/duclongbox](https://github.com/duclongbox)
